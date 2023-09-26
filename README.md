@@ -28,7 +28,7 @@ Olá, nesse ponto você encontra os principais projetos prontos ou em andamento 
 
 |Visualizar                          |Código fonte     
 |------------------------|---------------------|
-|[Link da página](https://versel.com) |[Link repositório](https://github.com/flagesjr/portfolio/tree/main/frontend/lista-de-clientes-com-busca)| 
+|[Link da página](https://#) |[Link repositório](https://github.com/flagesjr/portfolio/tree/main/frontend/lista-de-clientes-com-busca)| 
 ##
 
 > **Web Site** para uma empresa de revista física.
@@ -40,6 +40,6 @@ Olá, nesse ponto você encontra os principais projetos prontos ou em andamento 
 
 |Visualizar                          |Código fonte     
 |------------------------|---------------------|
-|[Link da página](https://versel.com) |[Link repositório](https://github.com/flagesjr/portfolio/tree/main/frontend/radukan)| 
+|[Link da página](https://#) |[Link repositório](https://github.com/flagesjr/portfolio/tree/main/frontend/radukan)| 
 ##
 
